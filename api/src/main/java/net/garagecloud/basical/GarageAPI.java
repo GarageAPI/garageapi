@@ -9,7 +9,6 @@ public final class GarageAPI extends JavaPlugin {
     @Override
     public void onLoad() {
         //todo: Logic load
-
     }
 
     @Override
