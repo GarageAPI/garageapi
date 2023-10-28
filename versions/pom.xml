@@ -7,6 +7,14 @@
     <groupId>net.garagecloud</groupId>
     <artifactId>garage-versions</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>garage-1.12</module>
+        <module>garage-1.16</module>
+        <module>garage-1.18</module>
+        <module>garage-1.17</module>
+    </modules>
 
     <build>
         <finalName>${project.artifactId}</finalName>
