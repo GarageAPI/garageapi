@@ -9,6 +9,7 @@
         <module name="garage-api" />
         <module name="garage-1.12" />
         <module name="garage-1.18" />
+        <module name="garage-1.17" />
         <module name="garage-1.16" />
       </profile>
     </annotationProcessing>
